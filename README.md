@@ -423,3 +423,42 @@ To maintain "Elon-speed" operational velocity, the protocol distinguishes betwee
 * **Bypassing the Laser:** If a structural bay has a previously certified "Clear-Path" log on file, re-lasering the ledge is not required for a panel swap.
 * **The Surfacing Requirement:** The ironwork ledge must be thoroughly cleaned (surfaced) to remove all previous gasket residue. Once surfaced, the new panel is seated on a fresh ductile gasket.
 * **Verification:** The "Red Line" seating check serves as the final and sufficient proof of structural health for the swap.
+
+---
+
+## Appendix: Standard Detail Drawings
+
+This appendix provides the geometric and mechanical blueprints for the SafetySpan Reference Build. These plates serve as the enabling disclosure for the protocol and define the "Standard of Care" for manufacturing and installation.
+
+### Plate 1: MCSP Reference Build
+*(Refer to Figure 1 in Component Specifications for internal rib and rim geometry)*
+
+### Plate 2: The Structural Spline
+*(Refer to Figure 2 in Installation & Logistics for W-Gasket and Safety Cross details)*
+
+### Plate 3: Ledge Interface & Seating
+![Ledge Interface Detail](images/ledge-interface.png)
+**Technical Key:**
+* **Support Ledge:** Minimum 2-inch (50mm) structural steel T-beam or L-angle.
+* **Ductile Gasket:** 1/4" x 1/2" pre-formed high-flow intumescent butyl bead.
+* **Inspection Reveal:** 1/4" (6.35mm) raw board gap between the ironwork and the Red Diagnostic Grid.
+
+### Plate 4: The Ledge Witness Jig
+![Ledge Witness Jig](images/witness-jig.png)
+**Technical Key:**
+* **Frame:** 4'x8' lightweight aluminum angle or box section.
+* **Witness Band:** Tri-zone target (Upper Reflective / Center Matte / Lower Reflective).
+* **Calibration:** Laser plane set to the center matte band (Design Elevation).
+
+### Plate 5: Vertical Interface (Floating Partition)
+![Floating Partition Detail](images/wall-connection.png)
+**Technical Key:**
+* **Top Connection:** Conventional commercial slip-track for vertical float.
+* **Bottom Connection:** Structural adhesive bond reinforced with AR-glass woven roving tabbing.
+* **Red Iron Suspension:** Lateral restraint members affixed to the structural chassis.
+
+### Plate 6: Utility Plenum (Strap-Suspension)
+![Utility Plenum Detail](images/mep-suspension.png)
+**Technical Key:**
+* **Hanger Straps:** 18-gauge galvanized steel straps draped over structural runners.
+* **Service Access:** Permanent top-down access to the ceiling plenum via the "Pop and Swap" maneuver.
