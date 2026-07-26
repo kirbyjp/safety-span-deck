@@ -81,4 +81,59 @@ The longitudinal "Footing" structures (Rim Blocking) that transfer loads to the 
 ### Open Material Exploration
 The SafetySpan Protocol is a living standard. It is explicitly open to the integration of emerging materials—including geopolymers, carbon-sequestering cements, and bio-resins—to continuously optimize the ratio of **Flexural Strength to Dead Weight**.
 
+---
 
+## Component Specifications
+
+The SafetySpan panel is a modular Mineral Composite Structural Panel (MCSP) defined by performance-based criteria rather than fixed materials, geometries, or manufacturing methods. This section establishes the Reference Build for a standard 4'x8' floor panel and the Performance Equivalency Rules that allow any future material, bonding method, reinforcement system, or web topology to qualify under the protocol. All specifications describe the panel itself as an MCSP, independent of system-level behavior or installation practices.
+
+### Structural Geometry and Web Architecture
+
+**Reference Build:**  
+The internal structure consists of load-bearing webs arranged at a nominal spacing of 16 inches On-Center (O.C.). Webs are planar mineral members that transfer shear and flexural stresses between the skins while maintaining the geometric separation required for composite action.
+
+**Performance-Based Allowances:**  
+Web spacing may vary between 4 and 24 inches On-Center. Web architecture is not restricted to linear layouts; the protocol explicitly discloses variable, clustered, staggered, diagonal, curved, cellular, ribbed, gradient, biomimetic, or hybrid geometries, including those generated through algorithmic, AI-driven, or topology-optimization methods. Web depth, thickness, and profile may vary across the panel. Webs may incorporate optional castellation, perforations, or functional voids and may form a continuous **Structural Plenum** and likely will not be used for utility routing, though if engineer desires it can be, provided vertical load-transfer paths remain structurally continuous. 
+
+### Field Penetration Protocol (Manufacturer Recommendation)
+
+Engineered chases intended for mechanical, electrical, or plumbing routing shall be fully pre-planned during architectural and engineering design so that factory-produced truncated MCSP panels and corresponding engineered ironwork trays can be ordered in quantity. Such chases shall not be created through onsite alterations or penetrations. Factory-produced chase panels shall incorporate designed web terminations, reinforced skin boundaries, and controlled consolidation to ensure structural continuity equivalent to the Reference Build.
+
+Field penetrations are not part of the standard MCSP installation workflow and are not recommended. When unavoidable, penetrations may only be performed under strict geometric and structural constraints to preserve composite behavior and ensure the panel can pass Safety Test Jig verification prior to placement.
+
+Authorized penetrations shall comply with the following limits:  
+* Hole diameter shall not exceed one-third of the clear skin span between adjacent webs.  
+* No penetration may occur within a 2-inch offset from any internal web, rim block, or reinforced perimeter zone.  
+* No more than two penetrations are permitted within any 4-foot bay, with a minimum spacing between holes equal to twice the diameter of the largest penetration.  
+* All penetrations must be cut using low-vibration mineral-compatible tooling to prevent delamination at web–skin bond lines.
+
+Each authorized penetration must be circumferentially reinforced using high-tensile mineral roving (basalt or AR-glass) and a structural bonding medium to restore local skin continuity. Reinforcement materials shall fully encapsulate and saturate the roving; dry, exposed, or fuzzy fibers constitute a mandatory rejection condition. All reinforcement materials shall cure to manufacturer-specified structural handling strength prior to Safety Test Jig verification.
+
+Manufacturers may optionally provide factory-applied “green paint” patches indicating pre-authorized cut zones. These patches may include reminders of allowable penetration quantity, diameter limits, required reinforcement, and mandatory jig verification. When penetrations are performed, the worker responsible for the cut and the supervisor approving the jig test should mark the underside of the panel adjacent to the patched penetration with the date, load test weight, time under load, worker name, and approving supervisor name for traceability and inspection compliance. Illegible, missing, or incomplete metadata constitutes a mandatory rejection condition.
+
+Safety Test Jig verification shall simulate the design point load for the specific building type. Inspectors shall confirm that the load test weight recorded on the panel matches the required design reaction forces for the installation. Panels that do not pass jig testing shall not be placed under any circumstance.
+
+
+### Perimeter Architecture and Dense Edge Zone
+
+**Reference Build:**  
+The rim section shall be engineered for the design bearing and reaction forces associated with the intended application, which may exceed the baseline panel MOR requirements. Rim geometry, material density, and reinforcement shall be selected to prevent crushing, shear failure, or local overstress under the maximum factored support loads defined by the structural design.I like tha
+
+**Performance-Based Allowances:**  
+The edge zone must distribute reaction forces across a minimum 2-inch structural ledge without localized crushing or punching-shear failure. Larger bearing ledges may be engineered when required by the design reaction forces or support conditions, and such modifications remain within protocol bounds when they preserve rim continuity and composite behavior. Edge densification may be achieved through material density, geometric reinforcement, composite layering, textile reinforcement, post-production rim reinforcement, or hybrid rim systems. Rim geometry may be solid, laminated, composite, mineral, ceramic, basalt, or hybrid configurations, provided equivalent or greater bearing strength is achieved.
+
+### Material Matrix (Skins and Core)
+
+**Reference Build:**  
+The panel utilizes reinforced mineral skins bonded to a hollow or semi-hollow mineral core. Skin thickness is determined by engineering analysis of design loads, span conditions, and serviceability limits.
+
+**Performance-Based Allowances:**  
+Skins may be composed of fiber-cement, GFRC, magnesium-cement, geopolymer, ceramic composite, basalt-reinforced mineral plate, carbon-reinforced mineral plate, hybrid mineral composites, or nano-reinforced mineral plates meeting MOR and fire-rating requirements. Skin thickness may be symmetric or asymmetric and may vary across the panel. Core architecture may be hollow, semi-hollow, cellular, foamed, ribbed, composite, or topology-optimized. Core materials may include mineral composites, geopolymer foams, ceramic foams, basalt-foam hybrids, mineral wool, or future mineral matrices capable of maintaining skin separation under load.
+
+### Bonding, Reinforcement, and Consolidation
+
+**Reference Build:**  
+The panel employs a **post-production monocoque edge wrap** of continuous basalt woven roving to provide torsional toughness and prevent skin-peel at the boundaries. Skins and the core are bonded using a structural adhesive selected for interlaminar shear performance. Consolidation is achieved through vacuum-assisted assembly.
+
+**Performance-Based Allowances:**  
+Bonding may be achieved through chemical adhesives, mineral binders, ceramic adhesives, silicate binders, geopolymer binders, magnesium binders, bio-resins, carbon-nanotube adhesives, pressure-sintered interfaces, thermal-fused mineral interfaces, cold-weld mineral interfaces, mineral fusion methods, or mechanical interlocks. Reinforcement may utilize basalt, AR-glass, carbon fiber, aramid, ceramic fiber, mineral tape, nano-textile reinforcement, or hybrid composites. Consolidation may be achieved through mechanical pressing, clamp/roller consolidation, gravity cure, thermal cure, chemical cross-linking, mineral sintering, or pressureless bonding, provided a void-free bond
