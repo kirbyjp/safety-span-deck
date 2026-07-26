@@ -325,3 +325,57 @@ SafetySpan increases the "Certainty of Completion," a critical metric for constr
 ### Standard of Care: The MIT Open-Protocol Shield
 Professional Liability (Errors & Omissions) is driven by the "Standard of Care." 
 * **The Safe Harbor:** By publishing as an open-source MIT protocol, SafetySpan establishes a peer-reviewed, global structural standard. This provides architects, engineers, and municipal officials with a documented "Standard of Care," reducing the professional liability associated with adopting non-traditional construction methods.
+
+---
+
+## Code Enforcement & Regulatory Equivalency
+
+The Code Enforcement & Regulatory Equivalency section provides the legal and technical framework for the Authority Having Jurisdiction (AHJ) to approve the SafetySpan protocol. By shifting from prescriptive "Wet" standards to performance-based "Dry" verification, the system reduces inspector liability, eliminates trade-handoff errors, and provides a transparent audit trail for municipal records.
+
+### The Legal Path: IBC Section 104.11 (Alternative Materials)
+SafetySpan is designed for approval under **IBC Section 104.11 (Alternative materials, design and methods of construction and equipment)**. This section grants the Building Official the authority to approve any system that performs as an equivalent to the prescriptive code.
+* **Standardized Protocol:** Unlike one-off variances, SafetySpan is a repeatable, peer-reviewed structural protocol.
+* **Standard of Care:** By adhering to the MIT open-source standard, the project team provides the AHJ with a documented "Standard of Care," reducing the municipal legal risk associated with adopting non-traditional construction.
+
+### Performance Equivalency Suite
+To establish equivalency with a 4-inch reinforced concrete slab, the SafetySpan MCSP assembly must meet or exceed the following standardized metrics:
+* **Fire Resistance:** ASTM E119 / UL 263 (Equivalency to 2-hour rating).
+* **Non-Combustibility:** ASTM E136 (Behavior of materials in a vertical tube furnace).
+* **Structural Capacity:** ASTM E72 (Strength testing of panels).
+* **Interlaminar Shear:** ASTM C393 (Flexural properties of stressed-skin construction).
+* **Smoke/Flame Spread:** ASTM E84 (Surface burning characteristics).
+
+### The "Concrete Killer": On-site Performance Verification
+The most significant regulatory advantage of SafetySpan is the ability to perform **Real-time Structural Audits**.
+* **Random Sampling:** At the inspector’s prerogative, any candidate or installed panel may be pulled and placed on the **Certified Mock Bay / Safety Test Jig** for a proof-load test.
+* **Empirical Proof:** Unlike a poured slab, which cannot be tested without destructive core-drilling, the SafetySpan panel can be verified to its design load in minutes. If the panel passes without activating the Witness Mesh, it may be reinstalled, providing the inspector with absolute certainty of structural health.
+
+### Adaptive Reuse & Historic Retrofit Equivalency
+SafetySpan provides a unique compliance path for the redevelopment of degraded structures by satisfying the **Structural Relief** clauses of the **IEBC (International Existing Building Code)**.
+* **ADA Upgrade Avoidance:** Because the system reduces floor mass by 75%, the retrofit is legally classified as a "Load-Reducing Repair" rather than a major structural alteration. This prevents the triggering of mandatory, multi-million dollar ADA accessibility upgrades (elevators, egress paths) often required in historic remodels.
+* **Occupancy Classification Shield:** SafetySpan upgrades the fire class of combustible structures (Type IV/V) to non-combustible status without triggering a "Change of Occupancy" reclassification. This allows for higher-density use without requiring exterior wall modifications or stairwell fire-rating retrofits.
+* **Diaphragm Anchorage Exemption:** The **Independent Chassis Doctrine** ensures the floor does not impose new lateral loads on fragile masonry. This provides a regulatory path to approve the floor without forcing invasive diaphragm anchorage or shear-transfer hardware into heritage walls.
+* **Historic Fabric Protection:** The "Dry and Silent" installation protocol prevents the "Fabric Shock" caused by the vibration of jackhammers or the hydrostatic moisture intrusion of wet concrete, preserving fragile lime mortar and heritage masonry.
+
+### Binary Field Verification (Visual Compliance)
+SafetySpan eliminates "Engineering Judgment" and subjective interpretation in the field by utilizing high-contrast, binary visual indicators.
+* **The Red Line & 1/4" Reveal:** Instant proof of structural bearing depth.
+* **The Safety Cross:** Instant proof of fire-stop continuity at 4-way intersections.
+* **The Unified Red Grid:** Instant proof that the panel has not been overstressed during transport or installation.
+* **The Trash Bin Audit:** Visual confirmation of pre-formed fire-tape usage via discarded wax-paper rolls.
+
+### Forensic Accountability and After-Action Authority
+The protocol replaces the requirement for "Witnessed Pours" with a permanent, digital audit trail.
+* **Asynchronous Approval:** Inspectors do not need to be present during installation. They can certify structural bays "after-the-fact" by reviewing the **Laser Ledge Logs**, **Photo Logs**, and **Witness Mesh** status.
+* **Permanent Record:** The forensic log provides the municipality with a "Digital Twin" of the building’s structural state, ensuring that all repairs and field modifications (per the Field Penetration Protocol) are documented and jig-verified.
+
+### Single-Trade Sign-off and Inspection Efficiency
+By consolidating the structural chassis and the deck into a single trade (Ironworkers), the protocol streamlines the inspection workflow.
+* **Elimination of Special Inspections:** By removing the complexities of rebar cover, slump testing, and post-tensioning, SafetySpan eliminates the need for a multi-layered special-inspection regime, drastically reducing the municipal workload.
+* **Moisture-Cure Exemption:** The protocol eliminates the entire moisture-cure inspection regime, including vapor barrier verification, humidity compliance, and freeze-protection monitoring.
+* **Unified Visit:** The Building Official can vet the primary steel and the structural deck in a single site visit, accelerating the "Certificate of Occupancy" (CO) timeline.
+
+### Inspector Liability Reduction (The Defensible Rejection Path)
+SafetySpan protects the Building Official by providing **Deterministic Compliance**. 
+* **Objective Evidence:** If a bay is non-compliant, the inspector can issue a rejection based on objective, visual evidence (crazed lacquer or visible Red Line), removing the risk of litigation associated with subjective "engineering judgment."
+* **No Hidden Conditions:** By removing hidden conditions (buried assets, rebar corrosion, moisture entrapment) and replacing them with self-reporting materials, the protocol ensures that the inspector’s sign-off is backed by empirical data rather than visual guesswork.
