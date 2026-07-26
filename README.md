@@ -45,20 +45,40 @@ SafetySpan is a new collapse geometry, a new inspection regime, and a new underw
 ---
 
 ## System Architecture
-The SafetySpan system is defined as a **Structural Infill Protocol**. It decouples the building's "Chassis" (the primary steel) from its "Deck" (the modular panels).
 
-### The Ironwork Chassis
-* **Primary Grid:** Standardized 4'x8' structural bays.
-* **Support Members:** Steel T-beams or L-angle "Trays" welded to primary joists.
-* **Tolerance:** Designed for a 1/8" "Comfort Zone" per panel to accommodate standard ironwork variances without shimming.
+The SafetySpan system is a **Modular Structural Infill Protocol** designed to interface with a variety of skeletal chassis. While the nominal implementation is optimized for a 4'x8' ironwork grid, the architecture is fundamentally scalable and material-agnostic within the defined mechanical parameters.
 
-### The Modular Panel
-* **Dimensions:** 48" x 96" x 4" (Standard).
-* **Composition:** Modular Hybrid TRC Sandwich.
-* **Weight:** ~400 lbs (12.5 lbs/sq. ft.).
-* **Performance:** 1,500 - 2,100 PSI MOR (Standard Build).
+### Geometric Versatility & Sizing
+The protocol defines the panel as a discrete structural unit whose dimensions are limited only by the Modulus of Rupture (MOR) of the chosen material matrix and the logistical constraints of the installation site.
+* **Nominal Format:** 4' x 8' (1219mm x 2438mm) for standard commercial bays.
+* **Maintenance/Remodel Format:** 4' x 4' or smaller truncated rectangles designed for transport via standard maintenance elevators or through existing window apertures.
+* **High-Span Format:** 4' x 12', 4' x 16', or 4' x 24' configurations. These formats are explicitly **subject to MOR and chassis design validation** to ensure serviceability limits are maintained over extended spans.
+* **Custom Geometries:** The system supports non-orthogonal shapes (triangles, trapezoids) via water-jet or CNC-machined perimeter truncation to accommodate irregular building footprints.
 
-### The Interface
-* **Horizontal Seal:** Hybrid Metal/Rubber W-Gasket (The Structural Spline).
-* **Vertical Seal:** High-Flow, Low-Shore Intumescent Butyl Tape (The Ductile Ledge Gasket).
-* **Corner Seal:** Class A Intumescent Red Fire Caulk.
+### Support Grid Ontology
+SafetySpan utilizes a "Cradle-and-Infill" logic that maps to existing non-structural grid systems, effectively upgrading their load-bearing capacity to primary structural status **when the grid is specifically engineered for that duty**.
+* **Ironwork Chassis:** Primary steel joists fitted with T-beam or L-angle "Trays."
+* **Access Floor Analogy:** The system functions as a "Structural Access Floor," where the ironwork grid serves as the **Main Runners** and the panels serve as the **Load-Bearing Tiles**.
+* **Ceiling Grid Analogy:** The system mirrors the assembly logic of a **Suspended Tegular Ceiling**, but is defined by **structural bearing instead of acoustic suspension**, allowing the panel's recessed edge to sit flush within a supporting structural grid.
+
+### Material Composition & Matrix
+The protocol encourages the use of any cementitious or mineral-based matrix reinforced with non-corrosive ligaments.
+* **Standard Matrix:** Fiber-cement (cellulose-reinforced) or GFRC (Glass Fiber Reinforced Concrete).
+* **Exotic Reinforcements:** The protocol explicitly includes the use of **Basalt Roving (Lava Glass)**, **304/316 Stainless Steel Mesh**, **Aramid (Kevlar)**, or **Carbon Fiber** textiles.
+* **Advanced Implementation Method:** A disclosed exploratory method involves laying bi-axial pre-tensioned webbing (AR-glass, basalt roving, or metallic mesh) directly into the mold during the initial pour. This process creates a monolithic, pre-stressed TRC skin that functions as the top deck, bottom deck, and internal trussing simultaneously, maximizing the MOR-to-weight ratio.
+
+### Variable Thickness & Mass
+Weight and thickness are treated as dependent variables based on the specific MOR requirements of the project.
+* **Skin Thickness:** Nominal 1/2" to 3/4", but scalable from 1/4" to 2" based on **point-load resistance** requirements.
+* **Core Depth:** Nominal 3" to 4", but scalable to 12" or more for high-span industrial or data center "Super-Planks."
+* **Total System Weight:** Typically 10–15 lbs/sq. ft., but variable based on the inclusion of Self-Leveling Underlayment (SLU) or internal acoustic damping fills.
+
+### Flexible Footing & Assembly
+The longitudinal "Footing" structures (Rim Blocking) that transfer loads to the chassis are not restricted to monolithic construction.
+* **Assembly Logic:** Footing structures may be factory-bonded, dovetailed for mechanical interlock, or shipped as discrete components for "Snap-Together" assembly.
+* **Interface:** The interface between the internal trusses and the perimeter footing is open to exploration, including mortise-and-tenon joints, fiberglass-welded fillets, or high-expansion chemical bonding to achieve **robust shear transfer within modular panel behavior**.
+
+### Open Material Exploration
+The SafetySpan Protocol is a living standard. It is explicitly open to the integration of emerging materials—including geopolymers, carbon-sequestering cements, and bio-resins—to continuously optimize the ratio of **Flexural Strength to Dead Weight**.
+
+
