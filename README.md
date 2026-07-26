@@ -288,4 +288,4 @@ The "Suspended Ground Floor" doctrine decouples the building’s primary deck fr
 ### Diagnostic Transparency (The Recovery Path)
 SafetySpan is the first structural system designed to "self-report" its health following a disaster, providing a verifiable path to re-occupancy.
 * **Forensic Verification:** The **Witness Mesh** (Brittle Lacquer) and **Red Line** seating provide instant, non-destructive proof of structural state. Inspectors can walk the plenums and visually confirm if a bay has been overstressed or if a panel has shifted.
-* **The Insurance Dividend:** This transparency eliminates the need for core-drilling, X-raying, or slab-scanning after a seismic or fire event. By providing a clear "Standard of Proof," SafetySpan drastically reduces the duration of post-event inspections and the associated "Business Interruption" costs.
+* **The Insurance Dividend:** This transparency eliminates the need for core-drilling, X-raying, or slab-scanning after a seismic or fire event. By providing a clear "Uniform Diagnostic Standard," SafetySpan drastically reduces the duration of post-event inspections and the associated "Business Interruption" costs.
