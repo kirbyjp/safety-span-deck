@@ -15,8 +15,8 @@
 * [The Diagnostic Suite (The Gatekeeper Protocol)](#the-diagnostic-suite)
 * [Installation & Logistics](#installation--logistics)
 * [Safety & Resilience](#safety--resilience)
-* [Code Enforcement & Regulatory Equivalency](#code-enforcement--regulatory-equivalency)
 * [Underwriting & Risk Architecture](#underwriting--risk-architecture)
+* [Code Enforcement & Regulatory Equivalency](#code-enforcement--regulatory-equivalency)
 * [Maintenance & Adaptive Reuse](#maintenance--adaptive-reuse)
 * [Appendix: Standard Detail Drawings](#appendix)
 
