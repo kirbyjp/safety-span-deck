@@ -136,4 +136,56 @@ Skins may be composed of fiber-cement, GFRC, magnesium-cement, geopolymer, ceram
 The panel employs a **post-production monocoque edge wrap** of continuous basalt woven roving to provide torsional toughness and prevent skin-peel at the boundaries. Skins and the core are bonded using a structural adhesive selected for interlaminar shear performance. Consolidation is achieved through vacuum-assisted assembly.
 
 **Performance-Based Allowances:**  
-Bonding may be achieved through chemical adhesives, mineral binders, ceramic adhesives, silicate binders, geopolymer binders, magnesium binders, bio-resins, carbon-nanotube adhesives, pressure-sintered interfaces, thermal-fused mineral interfaces, cold-weld mineral interfaces, mineral fusion methods, or mechanical interlocks. Reinforcement may utilize basalt, AR-glass, carbon fiber, aramid, ceramic fiber, mineral tape, nano-textile reinforcement, or hybrid composites. Consolidation may be achieved through mechanical pressing, clamp/roller consolidation, gravity cure, thermal cure, chemical cross-linking, mineral sintering, or pressureless bonding, provided a void-free bond
+Bonding may be achieved through chemical adhesives, mineral binders, ceramic adhesives, silicate binders, geopolymer binders, magnesium binders, bio-resins, carbon-nanotube adhesives, pressure-sintered interfaces, thermal-fused mineral interfaces, cold-weld mineral interfaces, mineral fusion methods, or mechanical interlocks. Reinforcement may utilize basalt, AR-glass, carbon fiber, aramid, ceramic fiber, mineral tape, nano-textile reinforcement, or hybrid composites. Consolidation may be achieved through mechanical pressing, clamp/roller consolidation, gravity cure, thermal cure, chemical cross-linking, mineral sintering, or pressureless bonding, provided a void-free bond is produced
+
+---
+
+## The Diagnostic Suite (The Gatekeeper Protocol)
+
+The SafetySpan protocol replaces the "Black Box" of traditional monolithic construction with a transparent, inspectable structural regime. By baking structural gatekeeping directly into the material matrix and the assembly sequence, SafetySpan transforms the floor from a passive surface into an active diagnostic asset. This section defines the **Verification Layer**—a suite of visual, digital, and forensic gates that allow code enforcement officials and insurance underwriters to certify structural health without specialized expertise or destructive testing.
+
+### The Unified Red Diagnostic Grid
+The primary material diagnostic is a factory-applied grid of 1-inch (25mm) wide stripes composed of **Red Brittle Lacquer** (e.g., Stresscoat or equivalent). This grid serves as a permanent, non-destructive structural logbook on the underside of every Mineral Composite Structural Panel (MCSP).
+
+* **Calibration:** The lacquer must be formulated to craze (spiderweb) at **75% of the material’s Modulus of Rupture (MOR)**. This ensures that any overstress event is recorded before the panel reaches its ultimate failure limit.
+* **Dual-Mode Monitoring:**
+    * **Seating Health:** Perimeter grid lines monitor shear strain at the support interface. Crazing in these zones indicates localized edge-crushing or point-loading due to uneven ironwork.
+    * **Flexural Health:** Internal grid lines monitor mid-span deflection. Crazing in these zones indicates construction-phase abuse, accidental shock-loading, or seismic strain.
+* **Gatekeeper Protocol:** A "Healthy" panel shows a smooth, continuous grid. A "Flagged" panel shows visible crazing and must be rejected or replaced via the "Pop and Swap" maneuver.
+
+### The 1/4-inch Inspection Reveal
+To enable high-speed code enforcement, the protocol utilizes a 1/4-inch (6.35mm) unpainted **Inspection Reveal** (Safety Gap) of raw cementitious board between the steel support ledge and the start of the Red Diagnostic Grid.
+
+* **Binary Seating Check:** 
+    * **Pass:** The inspector observes a uniform 1/4" gap of raw board between the ironwork and the paint.
+    * **Fail (Under-Seated):** The inspector observes >1/4" of raw board, indicating the panel has not reached its minimum structural bearing depth.
+    * **Fail (Over-Seated):** The inspector observes no raw board (paint is obscured by the steel), indicating potential grid-alignment errors or "binding" that could impede thermal expansion.
+* **Bond Integrity:** Leaving the bearing surface raw ensures the **Ductile Ledge Gasket** achieves a clean, high-tack bond to the mineral pores, unhindered by the brittle lacquer.
+
+### Optical Clear-Path Verification (The Digital Gate)
+Optical Clear-Path Verification is a mandatory **Regulatory Gate** performed prior to panel placement. Optical Clear-Path Verification confirms that the ironwork chassis is within the co-planarity tolerances required for rigid MCSP seating.
+
+* **The Ledge Witness Jig:** The Ledge Witness Jig is a lightweight aluminum frame constructed from angle or box section members. The jig is dropped directly onto the ironwork ledge and features a built-in **Witness Band** consisting of three horizontal zones:
+    * **Upper Reflective Strip:** Indicates a "LOW" ledge condition.
+    * **Center Matte Strip:** Indicates the "PASS" condition (Design Elevation).
+    * **Lower Reflective Strip:** Indicates a "HIGH" ledge condition.
+* **The Level Datum Rule:** The rotating laser must establish an earth-horizontal level plane referenced to the building’s established structural datum. The level plane established by the laser must remain unchanged for the duration of the sweep.
+* **The Benchmarking Rule:** Each bay sweep must begin by referencing a fixed benchmark, such as a building column mark or a previously certified ledge.
+* **The "Flash = Fail" Logic:** 
+    * **Pass:** A "Pass" occurs when the laser strikes only the matte strip, confirming the ledge is level and co-planar with the benchmark plane.
+    * **Fail:** The laser strikes a reflective strip, producing a visible "Flash." A flash on the lower strip indicates the steel is intruding upward; a flash on the upper strip indicates the steel is sitting too low.
+* **Remedy and Marking Protocol:** Upon any failure, the operator must mark the exact segment on the ledge with the required correction: **"HIGH — grind down"** or **"LOW — shim/adjust."** The full 360° sweep must be repeated until a "No-Flash" pass is achieved.
+* **Verification Guardrail:** Dry-fit is an optional secondary verification method and must never override laser-based certification.
+
+### Forensic Documentation and Chain of Custody
+To satisfy underwriting requirements, every verified structural bay must generate a permanent forensic record.
+
+* **Construction Log:** The operator must complete a three-item binary checklist for every bay:
+    1. Laser jig calibrated to level datum and benchmark: YES/NO
+    2. Full 360° rotation sweep completed: YES/NO
+    3. No beam contact/reflective flash observed: YES/NO
+* **Physical Sign-off:** Upon a final pass, the laser operator must sign and date the red iron or a wire tag tied to the ledge. This signature must match the corresponding entry in the Construction Log.
+* **Photo Log:** A minimum of two photos per direction are required:
+    1. One photo showing the laser plane hitting the matte strip of the jig.
+    2. One photo showing the operator's signature and date on the ironwork.
+* **Data Integrity:** These photos serve as a static digital record of the verified structural state. Missing, incomplete, or illegible metadata/logs constitute a mandatory rejection condition for the bay.
