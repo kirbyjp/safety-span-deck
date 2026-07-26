@@ -15,17 +15,32 @@
 * [The Diagnostic Suite (The Gatekeeper Protocol)](#the-diagnostic-suite)
 * [Installation & Logistics](#installation--logistics)
 * [Safety & Resilience](#safety--resilience)
+* [Code Enforcement & Regulatory Equivalency](#code-enforcement--regulatory-equivalency)
+* [Underwriting & Risk Architecture](#underwriting--risk-architecture)
 * [Maintenance & Adaptive Reuse](#maintenance--adaptive-reuse)
 * [Appendix: Standard Detail Drawings](#appendix)
 
 ---
 
 ## Abstract
-SafetySpan is a disruptive, open-source structural protocol designed to replace traditional poured concrete floors with high-precision, modular TRC (Textile Reinforced Concrete) sandwiches. Built on a standardized 4'x8' ironwork grid, the system delivers a 2,000 PSI Modulus of Rupture (MOR) while remaining 75% lighter than a conventional 4-inch slab. This massive weight reduction allows for significant downsizing of primary steel and foundations, fundamentally altering the financial ROI for mid-rise construction.
 
-The system is engineered specifically for the "Gatekeepers"—insurance underwriters and code enforcement officials. By integrating "Red Line" seating indicators and "Witness Mesh" brittle lacquer diagnostics, SafetySpan provides instant, non-destructive verification of structural health. Unlike the "Black Box" of a poured slab, any construction-phase overstress or improper seating is visually apparent, creating a permanent, verifiable "Structural Warranty" within the material itself.
+**SafetySpan ends pancaking.**  
+For nearly a century, buildings have relied on monolithic concrete slabs — single, massive floor plates that fail the same way they are built: all at once. When a poured slab weakens, cracks, delaminates, or ages invisibly, the failure spreads across the entire floor and the whole slab can drop in a single catastrophic event. This is the physics behind seismic pancaking and the hidden‑aging collapses that continue to threaten mid‑rise structures worldwide.
 
-Mechanically, SafetySpan excels in extreme events. Its 16" O.C. truss architecture and fiberglass-welded boxed ends provide the stiffness of stone with the ductility of a composite. In seismic zones, the lightweight, decoupled panels reduce lateral inertial forces and prevent the "pancaking" effect. In fire scenarios, the discrete 4'x8' modules prevent progressive collapse; if one panel fails, the failure is "fused" at the T-beam, protecting the building's skeletal chassis and the lives within.
+SafetySpan breaks that chain.
+
+Instead of a monolithic slab, SafetySpan uses independent 4×8 structural TRC modules, each seated in a continuous steel tray. Every panel is a discrete structural unit — a fuse, not a slab. In fire, shock, or seismic events, a compromised panel fails on its own rather than pulling the rest of the floor into collapse. The steel tray catches the load path and keeps the failure contained. Adjacent panels remain seated because they are decoupled by design. SafetySpan transforms collapse behavior from “one floor fails as a single mass” to “one panel fails safely.”
+
+This modular geometry eliminates hidden‑aging pancaking. With no rebar to corrode, no embedded utilities to ignite, no slab moisture to accumulate, and no monolithic bond to silently deteriorate, SafetySpan replaces opaque slab aging with **transparent, inspectable structural health**. Every panel carries a factory‑applied **Witness Lacquer Grid**, revealing micro‑cracks, overstress, improper seating, or transport damage instantly. Inspectors and insurers gain a permanent, non‑destructive diagnostic layer built directly into the structure.
+
+Mechanically, SafetySpan is engineered for extreme events. Its 16" O.C. truss architecture and AR‑glass‑wrapped edges deliver high stiffness with composite ductility. The system’s lightweight, decoupled modules reduce inertial forces during earthquakes, preventing the slab‑wide mass‑movement that causes traditional floors to pancake. In fire scenarios, the discrete modules act as sacrificial fuses: if one panel fails, the failure is contained at the tray, protecting the building’s steel chassis and preventing progressive collapse.
+
+SafetySpan is a **structural infill protocol**, not a product. It decouples the building’s chassis (primary steel) from its deck (modular TRC panels), enabling dry construction, rapid installation, and single‑trade accountability. Ironworkers build the tray, drop in the panels, and create an instant working surface — no curing, no moisture testing, no rebar inspection, no slab demolition during future renovations. Utilities never penetrate the panels; they are suspended from the tray, ensuring full accessibility and eliminating hidden ignition or corrosion vectors.
+
+At 75% less weight than a conventional 4‑inch slab, SafetySpan enables significant downsizing of primary steel and foundations, unlocking new ROI models for mid‑rise construction and preserving older structures that cannot support modern slab loads. The system is engineered for equivalency certification under **ASTM E119**, **ASTM E136**, **UL 263**, and **ACI 549.1R**, with a fire‑resistance ambition of **2‑hour performance** once tested.
+
+SafetySpan is a new collapse geometry, a new inspection regime, and a new underwriting category. It is dry construction with structural transparency. It is modular flooring engineered for the next century — a safer, clearer, lighter, and more resilient alternative to the monolithic slab.
+
 
 ---
 
