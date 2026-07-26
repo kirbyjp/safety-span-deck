@@ -256,3 +256,36 @@ To quantify the "Elon-speed" advantage, the following KPIs shall be recorded:
 * **Hoisting Efficiency:** Panels installed per crane/hoist hour.
 * **Ledge Remediation Rate:** Percentage of bays requiring corrective ledge adjustment prior to panel seating.
 * **Diagnostic Pass Rate:** Percentage of panels installed without witness-mesh activation or visible crazing.
+
+---
+
+## Safety & Resilience
+
+The SafetySpan protocol shifts the structural paradigm from "Resilience through Mass" to "Resilience by Design." By utilizing a kinetic, modular architecture instead of a static, monolithic one, the system provides a superior safety envelope for extreme events. This section defines the mechanical behavior of the structure under fire, seismic, and environmental stress.
+
+### Non-Progressive Collapse (The Structural Fuse Doctrine)
+SafetySpan replaces the continuous monolithic slab with decoupled 4'x8' structural modules. This modularity transforms the building’s failure mode from a system-wide catastrophe to a localized event.
+* **The Structural Fuse:** In the event of a catastrophic impact or localized overload, a compromised panel acts as a "fuse," failing individually within its structural chassis. 
+* **Shock-Load Mitigation:** Because the panels are discrete units, the failure of one module does not "unzip" the rest of the floor. In a catastrophic drop, the 400-lb mass of a single panel **significantly reduces the dynamic shock load** on the floor below compared to the multi-ton impact of a failing concrete slab. This allows the ironwork chassis to function as an **impact-damping structural cradle**, arresting the drop and preventing progressive collapse.
+
+### Fire Compartmentalization and Environmental Barrier
+The system utilizes a "Double-Hull" fire and smoke defense strategy that treats every 4'x8' bay as a discrete environmental compartment.
+* **The Double-Hull Seal:** The combination of the ductile ledge gasket (Layer 1) and the hybrid W-gasket spline with Red Fire-Corner caulk (Layer 2) creates a smoke-tight, flame-resistant barrier.
+* **Chimney Effect and Mold Mitigation:** By sealing the inter-panel gaps, the protocol eliminates the "chimney effect"—the vertical migration of toxic gases. Crucially, this same compartmentalization **inhibits black mold propagation** between floors, as spores and moisture-laden air cannot bypass the sealed ledge and spline interfaces.
+* **Internal Water Containment:** The sealed nature of the assembly ensures that internal flooding (e.g., from fire suppression sprinklers or kitchen leaks) is mitigated from reaching the floors below. This reduces the likelihood of **hidden moisture reservoirs**, preventing mold colonization in concealed cavities and reducing secondary damage claims.
+
+### Seismic Inertia and Energy Dissipation
+SafetySpan leverages the physics of mass reduction and ductility to protect the building’s skeletal chassis during seismic disruption.
+* **Inertial Reduction ($F=ma$):** By reducing the floor mass by 75%, the building generates significantly less lateral force during an earthquake. This lower inertial demand reduces the stress on every column, connection, and foundation.
+* **Kinetic Chassis:** Unlike a brittle concrete monument that "fights and cracks," the SafetySpan system is a kinetic assembly. The steel frame provides ductility, while the decoupled panels can shift microscopically within their cradles. SafetySpan **dissipates energy through controlled micro-movement**, whereas monolithic concrete stores energy and releases it catastrophically through slab-wide fractures.
+
+### Flood Resilience and Hydrostatic Relief
+The "Suspended Ground Floor" doctrine decouples the building’s primary deck from the destructive forces of the earth.
+* **Hydrostatic Pressure Avoidance:** High freeboard (3'–15') allows floodwaters to pass beneath the structure. This prevents the buildup of hydrostatic pressure that typically shatters ground-bearing slabs.
+* **Moisture Entrapment Avoidance:** Because the protocol enforces a "No Buried Assets" rule, the system avoids the moisture entrapment that typically leads to mold blooms in buried conduits and slab cavities.
+* **Rapid Recovery:** Following a flood event, the building can be inspected, cleaned, and restored to service with minimal downtime. The visibility of all plenums allows inspectors to identify moisture-driven risks immediately, ensuring a safe and rapid return to occupancy.
+
+### Diagnostic Transparency (The Recovery Path)
+SafetySpan is the first structural system designed to "self-report" its health following a disaster, providing a verifiable path to re-occupancy.
+* **Forensic Verification:** The **Witness Mesh** (Brittle Lacquer) and **Red Line** seating provide instant, non-destructive proof of structural state. Inspectors can walk the plenums and visually confirm if a bay has been overstressed or if a panel has shifted.
+* **The Insurance Dividend:** This transparency eliminates the need for core-drilling, X-raying, or slab-scanning after a seismic or fire event. By providing a clear "Standard of Proof," SafetySpan drastically reduces the duration of post-event inspections and the associated "Business Interruption" costs.
