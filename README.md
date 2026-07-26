@@ -189,3 +189,67 @@ To satisfy underwriting requirements, every verified structural bay must generat
     1. One photo showing the laser plane hitting the matte strip of the jig.
     2. One photo showing the operator's signature and date on the ironwork.
 * **Data Integrity:** These photos serve as a static digital record of the verified structural state. Missing, incomplete, or illegible metadata/logs constitute a mandatory rejection condition for the bay.
+
+---
+
+## Installation & Logistics (Dry Build Protocol)
+
+This section defines the field execution of the SafetySpan protocol. By replacing on-site chemistry with factory physics, the system enables a "Dry Build" sequence that eliminates the logistical and financial bottlenecks associated with traditional reinforced concrete.
+
+### Logistical Efficiency and Financial De-risking
+SafetySpan is engineered to maximize shipping density and eliminate the "Chemical Lottery" of wet trades.
+* **The 6-to-1 Advantage:** A single 53-foot flatbed carries approximately 125 MCSP panels (4,000 sq. ft.). For a typical 20,000 sq. ft. floor plate, SafetySpan requires only **5 flatbed deliveries** compared to the **30+ concrete mixer trucks** and pumping rig required for a traditional pour.
+* **Elimination of Schedule Volatility:** The protocol removes the need for on-site batching, rebar shoring, and 28-day cure windows. 
+* **Bank Risk Mitigation:** By eliminating "Hot Loads" (delayed concrete) and rejected slump tests, SafetySpan reduces the risk of cascading schedule delays that can trigger interest penalties or construction loan draw-down failures.
+
+### Site Initiation and the Suspended Ground Floor
+The SafetySpan building begins with a "Suspended Ground Floor" doctrine, treating the earth as a variable rather than a constraint.
+* **Geotech Requirement (Job #1):** Proper pier depth and coring tests are paramount. The protocol mandates strict adherence to geotechnical piling/caisson specs to prevent differential settlement, as the rigid structural chassis (steel or concrete ledges) does not tolerate **dimensional compromise**.
+* **Reduced Site-Prep Burden:** Because the structural plane is defined by the steel chassis, mass grading, expensive select-fill import (typically 3'–6' depending on jurisdiction), and nuclear density testing of compacted lifts are eliminated beneath the building footprint.
+* **Freeboard and Flood Resilience:** The first deck is elevated to provide a service walk-space and flood mitigation. The freeboard height (typically 3'–15') is a variable determined by the building owner and underwriters based on site-specific flood risk. 
+* **Soft-Story Mitigation:** High-freeboard designs (>5') require shear walls or reinforced grade beams tying the pilings together to prevent **soft-story drift** and ensure chassis rigidity.
+
+### Systemic Redundancy Best Practices
+To enhance the non-progressive collapse behavior and fire safety of the structure, the following architectural strategies are recommended:
+* **Grid Rotation and Offset:** Architects and engineers should consider rotating the ironwork grid 90 degrees or offsetting it by 1/2 bay between adjacent floors. This ensures that flexural mid-spans never align vertically, mathematically reducing the probability of multi-floor impact failure.
+* **Staggered MEP Chases:** Engineered utility chases should be offset or staggered between floors. This prevents a "straight-drop" chimney effect during fire events and ensures that dropped objects cannot travel unimpeded from the upper floors to the lobby.
+
+### Hoisting and Vertical Access
+* **Primary Hoist:** Side-mounted construction hoists are the primary vertical path for panels. 
+* **Crane Picks:** When using cranes, **Spreader Bars** are mandatory to ensure vertical lift and prevent "Sling Pinch" damage to the panel edges.
+* **Service Elevator Future-Proofing:** All SafetySpan buildings must feature at least one service elevator sized to accommodate a standard 4'x8' panel to ensure the "Pop and Swap" lifecycle remains viable for the life of the structure.
+* **Landing Cadence:** The sequence is: Bay Certification → Panel Landing → Spline Installation. The deck is functionally complete and walkable the moment the panels are seated.
+
+### Certified Mock Bay and Field Validation
+Prior to full-scale decking, a **Certified Mock Bay** must be constructed to full specification.
+* **Training and Sign-off:** The mock bay serves as the standard for ironworker training and inspector sign-off on the "Laser Ledge Protocol."
+* **On-site Safety Test Jig:** The mock bay functions as the validation point for any field-modified panels. 
+* **Testing Protocol:** All destructive or proof-load testing of factory or field-modified panels must be **video-documented** to preserve warranty and manufacturer review integrity. Panels passing proof-load testing without further crazing of the diagnostic grid may be reinstalled.
+
+### Ledge Preparation and the Ductile Interface
+* **The Controlled Bond-Line:** Panels are seated on a pre-formed, high-flow, low-shore ductile gasket (Intumescent Butyl). This creates a **smoke-tight plug** to assist with the assembly's fire rating.
+* **Bead Geometry:** The gasket must be **tube or roll-shaped** (not flat tape) to ensure uniform compression and prevent "corner heave" when turned 90 degrees at the bay corners.
+* **Poka-yoke Application:** The gasket is supplied in pre-cut 24-foot rolls on wax paper. This ensures exactly one roll per bay, providing a visual "Trash Bin Audit" for inspectors to verify seal continuity.
+* **Point-Load Mitigation:** The ductile gasket absorbs minor weld burrs and beam twists, ensuring 100% surface contact even when the bay has passed the laser-level gate.
+
+### Sealing and Mechanical Lock-in
+* **Mechanical Lock-in:** Horizontal joints are sealed with a hybrid metal/rubber W-Gasket (Structural Spline). The rubber bead is rolled into the "V," wedging the metal wings against panel edges to create lateral tension. 
+![Panel Connections](images/panel-connections.png)
+* **The Safety Cross:** Intersections are sealed with Red Intumescent Fire Caulk. This creates a smoke-tight plug that is visually obvious as a "Safety Cross" for rapid inspector sign-off.
+
+### Wall Creation and Vertical Interfaces
+To maintain the "Pop and Swap" serviceability of the deck, partitions must follow the **Floating Partition Protocol**.
+* **Bottom Connection:** The wall's bottom plate is bonded to the MCSP skin using structural construction adhesive and reinforced with AR-glass tabbing. Where walls align with panel gaps, they may be flanged directly to the steel T-beam stem.
+* **Top Connection:** The top of the partition utilizes **conventional commercial slip-tracks** affixed to the structural chassis above. This allows the wall to be laterally locked but vertically floating, accommodating thermal/seismic movement and allowing floor panels to be removed without demolishing the wall.
+
+### MEP Integration and "The Panel Bank"
+* **No Buried Assets:** Primary utilities (except pre-planned drains) are relegated to dedicated MEP chases or suspended from the ironwork grid using over-the-beam straps.
+* **The Panel Bank:** Completed buildings should maintain a minimal inventory of **1–3 spare panels total**; additional units should be ordered only when remodel work is scheduled.
+* **Hybrid Wet-Zones:** For high-density penetrations (e.g., bathrooms), truncated MCSP panels may be paired with fabricated steel or wood infill plates. Fabricated infill plates shall serve as the **primary carriers for penetrations**, with truncated MCSP modules maintaining structural adjacency.
+
+### Commissioning and Acceptance KPIs
+To quantify the "Elon-speed" advantage, the following KPIs shall be recorded:
+* **Bay Cycle Time:** Time from laser certification to final spline lock.
+* **Hoisting Efficiency:** Panels installed per crane/hoist hour.
+* **Ledge Remediation Rate:** Percentage of bays requiring corrective ledge adjustment prior to panel seating.
+* **Diagnostic Pass Rate:** Percentage of panels installed without witness-mesh activation or visible crazing.
