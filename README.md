@@ -90,7 +90,8 @@ The SafetySpan panel is a modular Mineral Composite Structural Panel (MCSP) defi
 ### Structural Geometry and Web Architecture
 
 **Reference Build:**  
-The internal structure consists of load-bearing webs arranged at a nominal spacing of 16 inches On-Center (O.C.). Webs are planar mineral members that transfer shear and flexural stresses between the skins while maintaining the geometric separation required for composite action.
+The internal structure consists of load-bearing webs arranged at a nominal spacing of 16 inches On-Center (O.C.). Webs are planar mineral members that transfer shear and flexural stresses between the skins while maintaining the geometric separation required for composite action. ![SafetySpan Reference Build Elevation](images/panel-elevation-view.png)
+*Figure 1: Internal rib and rim geometry of the 4'x8' Reference Build.*
 
 **Performance-Based Allowances:**  
 Web spacing may vary between 4 and 24 inches On-Center. Web architecture is not restricted to linear layouts; the protocol explicitly discloses variable, clustered, staggered, diagonal, curved, cellular, ribbed, gradient, biomimetic, or hybrid geometries, including those generated through algorithmic, AI-driven, or topology-optimization methods. Web depth, thickness, and profile may vary across the panel. Webs may incorporate optional castellation, perforations, or functional voids and may form a continuous **Structural Plenum** and likely will not be used for utility routing, though if engineer desires it can be, provided vertical load-transfer paths remain structurally continuous. 
