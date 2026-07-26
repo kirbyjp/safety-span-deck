@@ -236,6 +236,8 @@ Prior to full-scale decking, a **Certified Mock Bay** must be constructed to ful
 ### Sealing and Mechanical Lock-in
 * **Mechanical Lock-in:** Horizontal joints are sealed with a hybrid metal/rubber W-Gasket (Structural Spline). The rubber bead is rolled into the "V," wedging the metal wings against panel edges to create lateral tension. 
 ![Panel Connections](images/panel-connections.png)
+*Figure 2: Tray seating and adjacent mating.*
+
 * **The Safety Cross:** Intersections are sealed with Red Intumescent Fire Caulk. This creates a smoke-tight plug that is visually obvious as a "Safety Cross" for rapid inspector sign-off.
 
 ### Wall Creation and Vertical Interfaces
